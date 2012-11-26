@@ -1,0 +1,9 @@
+2012-11-26 09:26:07[WARN] user: cognizant
+localhost:3000http://localhost:3000/categories/
+Unused Eager Loading detected
+  Category => [:products]
+  Remove from your finder: :include => [:products]2012-11-26 09:26:43[WARN] user: cognizant
+localhost:3000http://localhost:3000/categories/
+Unused Eager Loading detected
+  Category => [:products]
+  Remove from your finder: :include => [:products]
